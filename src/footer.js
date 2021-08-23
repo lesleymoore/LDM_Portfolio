@@ -4,9 +4,9 @@ import './App.css';
 function Footer() {
     return (
         <div className="App">
-       <a className="Links" href="#">LinkedIn</a>
-       <a className="Links" href="#">GitHub</a>
-       <a className="Links" href="#">Twitter</a>
+       <a className="Links" target="_blank" href="https://www.linkedin.com/in/lesley-moore-43a402194/">LinkedIn</a>
+       <a className="Links" target="_blank" href="https://github.com/lesleymoore">GitHub</a>
+       <a className="Links" target="_blank" href="#">Twitter</a>
         </div> );
 }
 

@@ -10,7 +10,10 @@ function App() {
           About Me
         </h1>
         <p>
-          This is about me....
+        A full stack web developer ready to enhance websites to have better functionality and web presence.
+        </p>
+        <p>
+          I am from Lenoir, NC. I moved to Raleigh in 2012 to attend NC State University for Biological Sciences. However when I found the coding program at UNC I quickly decided it was my niche. I find myself wanting to learn more about coding everyday and I am ready to find a company to use and enhance my skills even more.
         </p>
       </header>
     </div>
