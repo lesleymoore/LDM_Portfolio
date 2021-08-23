@@ -1,0 +1,11 @@
+.Header {
+    background-color: #282c34;
+    color: #61dafb;
+    display: flex;
+}
+
+.Links {
+    margin-left: 75px;
+    justify-content: right;
+    color: #61dafb;
+}

@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  background-color: #282c34;
 }
-
+.Links {
+  background-color: #282c34;
+  margin: 20px;
+  color:#61dafb;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
