@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import About from './aboutme.js';
 import Portfolio from './portfolio.js'
 import Contact from './contact.js'
+import Resume from './resume.js'
 import './App.css';
 
 const client = new ApolloClient({
@@ -19,6 +20,7 @@ function App() {
       <Route exact path="/LDM_Portfolio/" component={About} />
       <Route exact path="/LDM_Portfolio/portfolio" component={Portfolio} />
       <Route exact path="/LDM_Portfolio/contact" component={Contact} />
+      <Route exact path="/LDM_Portfolio/resume" component={Resume} />
     </Router>
     </ApolloProvider>
   );
