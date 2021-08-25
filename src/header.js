@@ -1,14 +1,14 @@
 import React from 'react';
+import Navbar from './Navbar';
 import './Header.css'
 
 function Header() {
     return (
         <div className="Header">
        <h1>Lesley Moore</h1>
-       <a href="#">About Me</a>
-       <a href="#">Portfolio</a>
-       <a href="#">Contact</a>
-       <a href="#">Resume</a>
+       <div className="Links">
+       < Navbar />
+       </div>
         </div> );
 }
 
